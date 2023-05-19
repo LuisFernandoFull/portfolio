@@ -36,7 +36,9 @@ export const LogoTipoText = styled("span", {
   },
 });
 
-export const NavbarLinks = styled(Flex, {
+export const NavbarLinks = styled(Flex, 
+  
+  {
   "@mobile": {
     marginTop: "$3",
     flexDirection: "column",
@@ -46,7 +48,9 @@ export const NavbarLinks = styled(Flex, {
       justifyContent: "flex-start",
       paddingLeft: 0,
     },
+    
   },
+  
 });
 
 export const NavbarMobileArea = styled("div", {
