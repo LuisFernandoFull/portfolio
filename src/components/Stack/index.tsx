@@ -4,7 +4,7 @@ import { IconType } from "react-icons/lib";
 
 interface StackProps {
   title: string;
-  icon: string | IconType;
+  icon: string | IconType | React.FC<React.SVGProps<SVGSVGElement>>;
   key: number;
 }
 
