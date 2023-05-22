@@ -12,6 +12,7 @@
       "@/public/*": ["public/*"],
       "@/utils/*": ["utils/*"]
     },
+    "typeRoots": ["./src/@types", "./node_modules/@types"],
     "skipLibCheck": true,
     "esModuleInterop": false,
     "allowSyntheticDefaultImports": true,
