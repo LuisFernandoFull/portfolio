@@ -1,3 +1,5 @@
+import { SiJavascript, SiHtml5, SiCss3 } from "react-icons/si";
+
 export const stackData = [
   {
     title: "HTML",
@@ -10,6 +12,7 @@ export const stackData = [
   {
     title: "JS",
     img: "src/assents/imagens/javascript.svg",
+    // img: "src/assents/imagens/javascript.svg",
   },
   { title: "TypeScript", img: "src/assents/imagens/typescript.svg" },
   {
