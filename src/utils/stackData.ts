@@ -3,30 +3,30 @@ import { SiJavascript, SiHtml5, SiCss3 } from "react-icons/si";
 export const stackData = [
   {
     title: "HTML",
-    img: "src/assents/imagens/html5.svg",
+    img: "src/assets/imagens/html5.svg",
   },
   {
     title: "CSS",
-    img: "src/assents/imagens/css.svg",
+    img: "src/assets/imagens/css.svg",
   },
   {
     title: "JS",
-    img: "src/assents/imagens/javascript.svg",
+    img: "src/assets/imagens/javascript.svg",
     // img: "src/assents/imagens/javascript.svg",
   },
-  { title: "TypeScript", img: "src/assents/imagens/typescript.svg" },
+  { title: "TypeScript", img: "src/assets/imagens/typescript.svg" },
   {
     title: "Node JS",
-    img: "src/assents/imagens/nodejs.svg",
+    img: "src/assets/imagens/nodejs.svg",
   },
   {
     title: "React",
-    img: "src/assents/imagens/reagir.svg",
+    img: "src/assets/imagens/reagir.svg",
   },
-  { title: "Jdango", img: "src/assents/imagens/icons8-django.svg" },
+  { title: "Jdango", img: "src/assets/imagens/icons8-django.svg" },
   // { title: "Next.js", img: TbBrandNextjs },
   // { title: "Docker", img: FaDocker },
-  { title: "PostgreSQL", img: "src/assents/imagens/postgreesql.svg" },
-  { title: "Git", img: "src/assents/imagens/git.svg" },
-  { title: "Python", img: "src/assents/imagens/python.svg" },
+  { title: "PostgreSQL", img: "src/assets/imagens/postgreesql.svg" },
+  { title: "Git", img: "src/assets/imagens/git.svg" },
+  { title: "Python", img: "src/assets/imagens/python.svg" },
 ];
